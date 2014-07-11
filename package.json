@@ -1,0 +1,25 @@
+{
+  "name": "ip-addr-cli",
+  "version": "1.0.0",
+  "description": "print the machine's IP address to stdout",
+  "bin": { "ip-addr": "cli.js" },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nathan7/ip-addr-cli.git"
+  },
+  "keywords": [
+    "ip",
+    "address",
+    "addr",
+    "cli"
+  ],
+  "author": "Nathan Zadoks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathan7/ip-addr-cli/issues"
+  },
+  "homepage": "https://github.com/nathan7/ip-addr-cli",
+  "dependencies": {
+    "ip": "^0.3.0"
+  }
+}
